@@ -1,6 +1,8 @@
 import java.io.IOException;
 import java.util.*;
 
+//ZQ2G8E Elosztott alkalmazások (B-VI-ELOALK)Csiga feladat
+//Dr. BágyiZoltán beadandó megtalalhato: https://github.com/DrBagyiZoltan/Elosztott_alk
 public class Main {
     //enter hasznalata a promptnal
     static class EnterPress {
